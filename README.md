@@ -1,1 +1,1 @@
-# wordpress-docker
+# wordpress-docker for workshop
